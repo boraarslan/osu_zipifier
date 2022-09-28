@@ -1,0 +1,4 @@
+/target
+**.bonsaidb
+osu_maps
+.env
